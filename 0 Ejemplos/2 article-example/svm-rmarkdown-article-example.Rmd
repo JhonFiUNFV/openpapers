@@ -10,12 +10,12 @@ bibliography: master.bib
 header-includes:
   -  \usepackage{hyperref}
 biblio-style: apsr
-title: "A Pandoc Markdown Article Starter and Template"
+title: "Evaluación de riesgo de liquidez de la Banca peruana en tiempo del COVID-19"
 thanks: "Replication files are available on the author's Github account (http://github.com/svmiller). **Current version**: `r format(Sys.time(), '%B %d, %Y')`; **Corresponding author**: svmille@clemson.edu."
 author:
-- name: Steven V. Miller
-  affiliation: Clemson University
-abstract: "This document provides an introduction to R Markdown, argues for its benefits, and presents a sample manuscript template intended for an academic audience. I include basic syntax to R Markdown and a minimal working example of how the analysis itself can be conducted within R with the `knitr` package."
+- name: Jhon Figueroa 
+  affiliation: Universidad Nacional Federico Villarreal
+abstract: "Ésta evaluación de riesgos de liquidez de las Instituciones Financieras Bancarias, tiene como propósito brindar a los profesionales del Sistema Financiero, con la apreciación objetiva e independiente, una herramienta de evaluación integral de los procesos gobernantes relacionados con la liquidez, que coadyuve  a la consecución de sus objetivos, agregue valor, y mejore la efectividad en los procesos de gestión de riesgos. Como antecedente,  la liquidez en una Institución Financiera, especialmente de un banco, es la capacidad que tiene de obtener rápidamente recursos disponibles a costos razonables. Considerando que sus activos líquidos son aquellos que pueden ser fácilmente vendidos o negociados sin un castigo en el precio considerable. Por su parte, los pasivos representan una fuente de liquidez si es que el la institución puede acceder a ellos pagando tasas de interés comparable con las tasas pagadas por la competencia."
 keywords: "pandoc, r markdown, knitr"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
